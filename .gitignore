@@ -1,5 +1,1 @@
 sendgrid.env
-sendgrid.env
-export SENDGRID_API_KEY='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' echo sendgrid.env source ./sendgrid.env
-export SENDGRID_API_KEY='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' echo sendgrid.env source ./sendgrid.env
-sendgrid.env

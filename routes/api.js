@@ -25,7 +25,9 @@ router.use(function(req, res, next) {
 });
 
 
-router.route('/send-email').post(function(req, res) {
+router.route('/send-email')
+
+    .post(function(req, res) {
 
     var sendgrid = require('sendgrid').mail;
 
